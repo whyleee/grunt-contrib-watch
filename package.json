@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "gaze": "~0.4.0",
-    "tiny-lr": "0.0.5",
+    "tiny-lr": "https://github.com/shama/tiny-lr/tarball/1edd",
     "lodash": "~2.4.1",
     "async": "~0.2.9"
   },
